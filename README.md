@@ -1,5 +1,9 @@
 # Omnichannel-Profit-Optimization-Engine
 
+## 🚀 Live Demo
+You can access the interactive simulation dashboard here: 
+[Profit Optimization Engine - Live Dashboard](https://omnichannel-profit-optimization-engine-hvvkn5b5lgzrxmswescfmr.streamlit.app/)
+
 
 🚨 **Despite generating $1.98B in revenue, this company is losing $617M.**
 
