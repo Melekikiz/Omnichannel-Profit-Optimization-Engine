@@ -1,0 +1,11 @@
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+fastapi
+uvicorn
+pydantic
+streamlit>=1.31.0
+requests
+plotly
+altair<5
